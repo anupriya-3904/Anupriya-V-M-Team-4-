@@ -1,0 +1,4 @@
+CALCULATE(
+    COUNTROWS('customer data'),
+    ALLEXCEPT('customer data', 'customer data'[Education Qualification])
+)
