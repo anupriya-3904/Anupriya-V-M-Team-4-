@@ -1,0 +1,6 @@
+NPS = 
+VAR Promoters = COUNTROWS(FILTER('customer data', 'customer data'[Customer_Rating] >= 3))
+VAR Detractors = COUNTROWS(FILTER('customer data', 'customer data'[Customer_Rating] <= 1))
+VAR TotalResponses = COUNTROWS('customer data')
+RETURN
+DIVIDE(Promoters - Detractors, TotalResponses, 0) * 100
