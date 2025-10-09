@@ -1,0 +1,10 @@
+Sentiment % = 
+VAR TotalReviews = COUNTROWS(customer_food_trends_with_coordinates)
+RETURN
+SWITCH(
+    SELECTEDVALUE(customer_food_trends_with_coordinates[Sentiment]),
+    "Positive", DIVIDE(CALCULATE(COUNTROWS(customer_food_trends_with_coordinates), customer_food_trends_with_coordinates[Sentiment] = "Positive"), TotalReviews, 0),
+    "Negative", DIVIDE(CALCULATE(COUNTROWS(customer_food_trends_with_coordinates), customer_food_trends_with_coordinates[Sentiment] = "Negative"), TotalReviews, 0),
+    "Neutral",  DIVIDE(CALCULATE(COUNTROWS(customer_food_trends_with_coordinates), customer_food_trends_with_coordinates[Sentiment] = "Neutral"), TotalReviews, 0),
+    0
+)
