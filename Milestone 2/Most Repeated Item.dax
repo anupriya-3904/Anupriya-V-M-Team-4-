@@ -1,0 +1,9 @@
+Most Repeated Item = 
+CALCULATE(
+    MAX('customer data'[Repeat_Purchase_Item]),
+    TOPN(
+        1,
+        SUMMARIZE('customer data', 'customer data'[Repeat_Purchase_Item], "Count", COUNTROWS('customer data')),
+        [Count], DESC
+    )
+)
