@@ -78,11 +78,80 @@ The system helps brands <b>understand customer trends</b> and <b>adapt offerings
 By integrating sentiment and sales analytics, it paves the way for more informed and data-driven business strategies.
 </p>
 
+<h1 align="center" style="color:#2F4F4F; font-family:'Trebuchet MS', sans-serif;">
+🏆 Milestone 2 – Data Processing & Sentiment Analysis using DAX
+</h1>
 
+<p align="center" style="font-size:16px; color:#696969; font-family:'Segoe UI', sans-serif;">
+<b>Contributor:</b> <i>Anupriya – Data Analytics & DAX Query Developer</i>
+</p>
+
+<hr style="border: 1px solid #ccc;">
+
+<h2 style="color:#4B0082; font-family:'Trebuchet MS';">📘 Overview</h2>
+<p style="font-size:15px; color:#333; font-family:'Georgia';">
+In <b>Milestone 2</b>, my primary responsibility was to perform <b>data cleaning, transformation, and sentiment analysis</b> using <b>Power BI and DAX queries</b>.  
+The goal was to analyze customer feedback and quantify their sentiments into <b>Positive, Negative, and Neutral</b> categories, which helped measure overall customer satisfaction.
+</p>
+
+---
+
+<h2 style="color:#1E90FF; font-family:'Trebuchet MS';">🧮 DAX Queries Implemented</h2>
+<ul style="font-size:15px; color:#333; font-family:'Georgia';">
+  <li><b>Average Rating:</b> Calculated the overall rating given by customers across all food items.</li>
+  <li><b>Sentiment Score:</b> Used DAX logic to assign sentiment weight based on textual feedback scores.</li>
+  <li><b>Positive Sentiment Count:</b> Filtered customer responses categorized as positive.</li>
+  <li><b>Negative Sentiment Count:</b> Identified negative feedback entries to detect areas for improvement.</li>
+  <li><b>Neutral Sentiment Count:</b> Counted neutral opinions to maintain analytical balance.</li>
+  <li><b>Net Promoter Score (NPS):</b> Calculated promoters and detractors to evaluate customer loyalty.</li>
+  <li><b>Most Repeated Item:</b> Determined the food item appearing most frequently in the dataset.</li>
+</ul>
+
+---
+
+<h2 style="color:#006400; font-family:'Trebuchet MS';">📊 Insights Derived</h2>
+<ul style="font-size:15px; color:#333; font-family:'Georgia';">
+  <li>Most customers expressed <b>positive sentiments</b>, indicating good satisfaction with product taste and quality.</li>
+  <li><b>Burger</b> emerged as the most popular food item across several regions.</li>
+  <li>The <b>average rating</b> was above 60%, showing moderate customer satisfaction.</li>
+  <li>The calculated <b>NPS value of 55%</b> highlights potential for improvement in brand advocacy.</li>
+  <li>By correlating <b>age and sentiment score</b>, we observed varying preferences across different age groups.</li>
+</ul>
+
+---
+
+<h2 style="color:#8B0000; font-family:'Trebuchet MS';">💻 Tools & Technologies Used</h2>
+<ul style="font-size:15px; color:#333; font-family:'Georgia';">
+  <li><b>Power BI</b> – for visual analytics and dashboard development.</li>
+  <li><b>DAX (Data Analysis Expressions)</b> – for data manipulation, sentiment logic, and custom measures.</li>
+  <li><b>Excel/CSV</b> – used as a data source for importing and analyzing raw feedback data.</li>
+  <li><b>Power Query Editor</b> – for cleaning and transforming input data.</li>
+</ul>
+
+---
+
+<h2 style="color:#FF8C00; font-family:'Trebuchet MS';">🚀 Outcome</h2>
+<ul style="font-size:15px; color:#333; font-family:'Georgia';">
+  <li>Developed sentiment-based DAX models that quantify customer emotions effectively.</li>
+  <li>Improved the analytical accuracy of customer satisfaction metrics.</li>
+  <li>Enabled dynamic data filtering by sentiment categories for deeper insights.</li>
+</ul>
+
+---
+
+<h2 style="color:#FF4500; font-family:'Trebuchet MS';">🌱 Future Enhancements</h2>
+<ul style="font-size:15px; color:#333; font-family:'Georgia';">
+  <li>Integrate machine learning-based <b>text sentiment analysis models</b> using Azure or Python.</li>
+  <li>Add <b>real-time sentiment tracking</b> from social media APIs.</li>
+  <li>Enhance <b>data storytelling visuals</b> in Power BI using KPI cards and trend lines.</li>
+</ul>
+
+---
 
 <h3 align="center" style="color:#4B0082; font-family:'Trebuchet MS';">
-🌟  Milestone 1 Completed🌟  
+✨ Milestone 2 Completed Successfully – Sentiment Analysis with DAX Implemented ✨
 </h3>
+
 
 <h1 align="center" style="color:#2F4F4F; font-family:'Trebuchet MS', sans-serif;">
 Milestone 3 – Interactive Dashboard Development
