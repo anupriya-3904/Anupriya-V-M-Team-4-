@@ -1,0 +1,7 @@
+Feedback Frequency = 
+SWITCH(
+    TRUE(),
+    [Feedback Count] >= 10, "Frequent",
+    [Feedback Count] >= 3,  "Occasional",
+    "Rare"
+)
