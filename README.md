@@ -121,11 +121,13 @@ The goal was to analyze customer feedback and quantify their sentiments into <b>
   <li>Enhance <b>data storytelling visuals</b> in Power BI using KPI cards and trend lines.</li>
 </ul>
 
-<img src="44a86c1f-f27d-41d6-9571-494ac20c814f.png" alt="Milestone 3 Dashboard" style="width:90%; border-radius:12px; box-shadow:0px 0px 10px #999; display:block; margin:auto;">
+
 
 <h1 align="center" style="color:#2F4F4F; font-family:'Trebuchet MS', sans-serif; margin-top:30px;">
 Milestone 3 – Interactive Dashboard Development
 </h1>
+
+<img src="https://github.com/anupriya-3904/Anupriya-V-M-Team-4-/blob/main/Screenshot%202025-10-09%20203410.png" alt="Milestone 3 Dashboard" style="width:90%; border-radius:12px; box-shadow:0px 0px 10px #999; display:block; margin:auto;">
 
 <p align="center" style="font-size:16px; color:#696969; font-family:'Segoe UI', sans-serif;">
 <b>Contributor:</b> <i>Anupriya – Dashboard Design & Data Analytics Lead</i>
