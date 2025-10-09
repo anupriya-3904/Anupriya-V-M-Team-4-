@@ -1,0 +1,5 @@
+Feedback Count = 
+CALCULATE(
+    COUNT('customer data'[Feedback_Text]),
+    ALLEXCEPT('customer data', 'customer data'[user_id])
+)
