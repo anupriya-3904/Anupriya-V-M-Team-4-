@@ -68,7 +68,8 @@ By integrating sentiment and sales analytics, it paves the way for more informed
 <h1 align="center" style="color:#2F4F4F; font-family:'Trebuchet MS', sans-serif;">
 Milestone 2 – Data Processing & Sentiment Analysis using DAX
 </h1>
-
+<img src="https://github.com/anupriya-3904/Anupriya-V-M-Team-4-/blob/main/Milestone%202/Screenshot%202025-10-09%20213502.png" alt="Milestone 3 Dashboard" style="width:90%; border-radius:12px; box-shadow:0px 0px 10px #999; display:block; margin:auto;">
+<img src="https://github.com/anupriya-3904/Anupriya-V-M-Team-4-/blob/main/Milestone%202/Screenshot%202025-10-09%20213428.png" alt="Milestone 3 Dashboard" style="width:90%; border-radius:12px; box-shadow:0px 0px 10px #999; display:block; margin:auto;">
 <p align="center" style="font-size:16px; color:#696969; font-family:'Segoe UI', sans-serif;">
 <b>Contributor:</b> <i>Anupriya –  Developing DAX Query </i>
 </p>
