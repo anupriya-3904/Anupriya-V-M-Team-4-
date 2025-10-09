@@ -127,7 +127,7 @@ The goal was to analyze customer feedback and quantify their sentiments into <b>
 Milestone 3 – Interactive Dashboard Development
 </h1>
 
-<img src="https://github.com/anupriya-3904/Anupriya-V-M-Team-4-/blob/main/Screenshot%202025-10-09%20203410.png" alt="Milestone 3 Dashboard" style="width:90%; border-radius:12px; box-shadow:0px 0px 10px #999; display:block; margin:auto;">
+<img src="https://github.com/anupriya-3904/Anupriya-V-M-Team-4-/blob/main/Milestone%202/Screenshot%202025-10-09%20203410.png" alt="Milestone 3 Dashboard" style="width:90%; border-radius:12px; box-shadow:0px 0px 10px #999; display:block; margin:auto;">
 
 <p align="center" style="font-size:16px; color:#696969; font-family:'Segoe UI', sans-serif;">
 <b>Contributor:</b> <i>Anupriya – Dashboard Design & Data Analytics Lead</i>
