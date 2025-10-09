@@ -1,0 +1,2 @@
+Negative % = 
+DIVIDE([Negative Reviews], [Total Reviews], 0)
