@@ -1,0 +1,6 @@
+Avg_Rating = 
+IF(
+    ISBLANK(AVERAGE('customer data'[Customer_Rating])), 
+    0, 
+    AVERAGE('customer data'[Customer_Rating]) * 20
+)
