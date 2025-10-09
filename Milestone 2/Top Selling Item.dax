@@ -1,0 +1,5 @@
+Top Selling Count = 
+CALCULATE(
+    COUNTROWS('customer data'),
+    'customer data'[Top_Selling_Item] = "Yes"
+)
