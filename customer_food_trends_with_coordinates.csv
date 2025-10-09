@@ -1,0 +1,201 @@
+user_id,Age,Gender,Occupation,Education Qualification,Monthly Income,Region,product_id,Top_Selling_Item,Feature,Feedback_Text,Sentiment,Sentiment_Score,Customer_Rating,Seasonal_Preference,Cuisine_Preference,Repeat_Purchase_Item,Preferred_Price_Range,Trend_Forecast,Latitude,Longitude
+U1000,28,Male,Engineer,Graduate,Below 10000,North,P100,Hot Soup,Taste,Could be better.,Neutral,0.4,3,Summer: Ice Cream/Softdrinks,Chinese,Burger,<100,Regional Recipes,28.6139,77.209
+U1001,34,Female,Analyst,Doctorate,10000-20000,Metro,P101,Sandwich,Packaging,Packaging was poor.,Negative,0.17,1,Cold: Hot/Spicy,Street Food,Hot Soup,400-600,Gluten-Free Products,17.385,78.4867
+U1002,25,Female,Engineer,Intermediate,Above 60000,North,P102,Biryani,Availability,Satisfied with my purchase.,Positive,0.77,5,Summer: Ice Cream/Softdrinks,Street Food,Biryani,<100,Regional Recipes,28.6139,77.209
+U1003,18,Female,Developer,Graduate,40000-60000,East,P103,Hot Soup,Packaging,Could be better.,Neutral,0.47,3,Summer: Ice Cream/Softdrinks,Chinese,Sandwich,200-400,Regional Recipes,22.5726,88.3639
+U1004,18,Male,Student,Intermediate,No Income,West,P104,Biryani,Packaging,Average experience.,Neutral,0.59,3,Summer: Ice Cream/Softdrinks,Chinese,Spicy Noodles,100-200,Street Food Revival,19.076,72.8777
+U1005,18,Male,Developer,Intermediate,40000-60000,East,P105,Ice Cream,Taste,Too expensive.,Negative,0.39,2,Cold: Hot/Spicy,North Indian,Salad,100-200,Regional Recipes,22.5726,88.3639
+U1006,30,Female,Engineer,Intermediate,Above 60000,West,P106,Ice Cream,Packaging,Packaging was poor.,Negative,0.26,1,Cold: Hot/Spicy,Chinese,Sandwich,<100,Regional Recipes,19.076,72.8777
+U1007,22,Male,Student,Intermediate,40000-60000,Metro,P107,Hot Soup,Packaging,Good quality product.,Positive,0.81,4,Cold: Hot/Spicy,South Indian,Hot Soup,100-200,Plant-based Meat,17.385,78.4867
+U1008,34,Male,Teacher,Postgraduate,20000-40000,South,P108,Burger,Price,Okay product.,Neutral,0.43,3,Cold: Hot/Spicy,South Indian,Pizza,100-200,Gluten-Free Products,12.9716,77.5946
+U1009,45,Male,Engineer,Intermediate,40000-60000,Metro,P109,Salad,Packaging,Loved the taste!,Positive,0.66,5,Summer: Ice Cream/Softdrinks,Street Food,Burger,>600,Plant-based Meat,17.385,78.4867
+U1010,22,Female,Lawyer,Postgraduate,10000-20000,South,P110,Pizza,Taste,Great packaging.,Positive,0.8,5,Summer: Ice Cream/Softdrinks,American,Pizza,<100,Vegan Food,12.9716,77.5946
+U1011,30,Male,Lawyer,Postgraduate,20000-40000,West,P111,Salad,Taste,Okay product.,Neutral,0.53,3,Cold: Hot/Spicy,North Indian,Coffee,200-400,Low Sugar Desserts,19.076,72.8777
+U1012,25,Female,Teacher,Graduate,40000-60000,Metro,P112,Salad,Taste,Loved the taste!,Positive,0.77,5,Summer: Ice Cream/Softdrinks,North Indian,Biryani,>600,Plant-based Meat,17.385,78.4867
+U1013,28,Male,Developer,Intermediate,Below 10000,East,P113,Spicy Noodles,Taste,Packaging was poor.,Negative,0.1,1,Cold: Hot/Spicy,Italian,Hot Soup,100-200,Fusion Cuisine,22.5726,88.3639
+U1014,40,Female,Engineer,Postgraduate,40000-60000,South,P114,Burger,Taste,Satisfied with my purchase.,Positive,0.77,4,Cold: Hot/Spicy,Italian,Sandwich,400-600,Low Sugar Desserts,12.9716,77.5946
+U1015,25,Female,Analyst,Graduate,Below 10000,North,P115,Pizza,Taste,Packaging was poor.,Negative,0.05,2,Cold: Hot/Spicy,South Indian,Spicy Noodles,<100,Healthy Bowls,28.6139,77.209
+U1016,18,Male,Homemaker,Postgraduate,10000-20000,Metro,P116,Pizza,Packaging,Packaging was poor.,Negative,0.34,2,Cold: Hot/Spicy,Italian,Spicy Noodles,400-600,Healthy Bowls,17.385,78.4867
+U1017,40,Male,Developer,Graduate,Above 60000,South,P117,Pizza,Packaging,Loved the taste!,Positive,0.79,4,Cold: Hot/Spicy,South Indian,Soft Drinks,100-200,Vegan Food,12.9716,77.5946
+U1018,45,Female,Developer,Doctorate,Above 60000,North,P118,Biryani,Taste,Okay product.,Neutral,0.56,3,Summer: Ice Cream/Softdrinks,North Indian,Sandwich,200-400,Street Food Revival,28.6139,77.209
+U1019,18,Female,Student,Graduate,40000-60000,West,P119,Sandwich,Price,Not available in my region.,Negative,0.01,2,Summer: Ice Cream/Softdrinks,Street Food,Soft Drinks,100-200,Fusion Cuisine,19.076,72.8777
+U1020,25,Male,Analyst,Intermediate,20000-40000,South,P120,Hot Soup,Taste,Neutral opinion.,Neutral,0.51,3,Cold: Hot/Spicy,South Indian,Biryani,400-600,Street Food Revival,12.9716,77.5946
+U1021,34,Male,Lawyer,Doctorate,No Income,North,P121,Biryani,Quality,Taste was bland.,Negative,0,1,Cold: Hot/Spicy,North Indian,Sandwich,400-600,Organic Snacks,28.6139,77.209
+U1022,22,Female,Doctor,Graduate,10000-20000,East,P122,Soft Drinks,Price,Average experience.,Neutral,0.59,3,Cold: Hot/Spicy,South Indian,Burger,<100,Street Food Revival,22.5726,88.3639
+U1023,34,Female,Doctor,Graduate,No Income,Metro,P123,Sandwich,Quality,Loved the taste!,Positive,0.95,4,Cold: Hot/Spicy,Italian,Ice Cream,<100,Healthy Bowls,17.385,78.4867
+U1024,45,Female,Teacher,Doctorate,No Income,East,P124,Soft Drinks,Price,Average experience.,Neutral,0.54,3,Summer: Ice Cream/Softdrinks,American,Soft Drinks,>600,Regional Recipes,22.5726,88.3639
+U1025,22,Female,Lawyer,Graduate,Below 10000,East,P125,Soft Drinks,Availability,Neutral opinion.,Neutral,0.53,3,Summer: Ice Cream/Softdrinks,Chinese,Coffee,>600,Plant-based Meat,22.5726,88.3639
+U1026,22,Male,Developer,Postgraduate,No Income,Metro,P126,Sandwich,Packaging,Not available in my region.,Negative,0.34,2,Summer: Ice Cream/Softdrinks,American,Hot Soup,<100,Vegan Food,17.385,78.4867
+U1027,22,Female,Homemaker,Postgraduate,20000-40000,West,P127,Hot Soup,Taste,Good quality product.,Positive,0.86,5,Cold: Hot/Spicy,Street Food,Coffee,200-400,Street Food Revival,19.076,72.8777
+U1028,18,Female,Student,Doctorate,No Income,West,P128,Coffee,Quality,Loved the taste!,Positive,0.73,5,Summer: Ice Cream/Softdrinks,Street Food,Burger,400-600,Regional Recipes,19.076,72.8777
+U1029,25,Female,Teacher,Postgraduate,10000-20000,West,P129,Coffee,Quality,Great packaging.,Positive,0.93,5,Cold: Hot/Spicy,South Indian,Salad,200-400,Low Sugar Desserts,19.076,72.8777
+U1030,34,Female,Lawyer,Doctorate,Above 60000,East,P130,Ice Cream,Availability,Packaging was poor.,Negative,0.07,2,Summer: Ice Cream/Softdrinks,American,Burger,200-400,Plant-based Meat,22.5726,88.3639
+U1031,28,Female,Engineer,Doctorate,40000-60000,East,P131,Pizza,Quality,Taste was bland.,Negative,0.14,1,Summer: Ice Cream/Softdrinks,South Indian,Pizza,100-200,Plant-based Meat,22.5726,88.3639
+U1032,40,Male,Doctor,Intermediate,Above 60000,West,P132,Biryani,Taste,Loved the taste!,Positive,0.68,5,Cold: Hot/Spicy,American,Ice Cream,200-400,Organic Snacks,19.076,72.8777
+U1033,45,Female,Engineer,Doctorate,Below 10000,Metro,P133,Soft Drinks,Availability,Taste was bland.,Negative,0.13,2,Summer: Ice Cream/Softdrinks,Street Food,Spicy Noodles,>600,Organic Snacks,17.385,78.4867
+U1034,22,Female,Lawyer,Postgraduate,20000-40000,East,P134,Pizza,Price,Good quality product.,Positive,0.88,5,Cold: Hot/Spicy,American,Spicy Noodles,100-200,Gluten-Free Products,22.5726,88.3639
+U1035,25,Female,Doctor,Postgraduate,20000-40000,Metro,P135,Salad,Taste,Good quality product.,Positive,0.92,5,Summer: Ice Cream/Softdrinks,South Indian,Pizza,400-600,Street Food Revival,17.385,78.4867
+U1036,25,Female,Homemaker,Graduate,Above 60000,East,P136,Sandwich,Availability,Great packaging.,Positive,0.96,4,Summer: Ice Cream/Softdrinks,Italian,Biryani,100-200,Protein Rich Meals,22.5726,88.3639
+U1037,22,Male,Lawyer,Postgraduate,Above 60000,North,P137,Pizza,Quality,Satisfied with my purchase.,Positive,0.8,4,Cold: Hot/Spicy,Chinese,Burger,<100,Healthy Bowls,28.6139,77.209
+U1038,30,Female,Doctor,Intermediate,Below 10000,North,P138,Burger,Availability,Great packaging.,Positive,0.65,5,Summer: Ice Cream/Softdrinks,American,Salad,400-600,Plant-based Meat,28.6139,77.209
+U1039,30,Female,Analyst,Graduate,No Income,South,P139,Spicy Noodles,Taste,Affordable and tasty.,Positive,0.98,4,Summer: Ice Cream/Softdrinks,Street Food,Biryani,<100,Protein Rich Meals,12.9716,77.5946
+U1040,34,Male,Analyst,Graduate,No Income,North,P140,Hot Soup,Price,Okay product.,Neutral,0.41,3,Summer: Ice Cream/Softdrinks,North Indian,Salad,>600,Healthy Bowls,28.6139,77.209
+U1041,30,Male,Developer,Postgraduate,No Income,East,P141,Salad,Quality,Great packaging.,Positive,0.9,5,Summer: Ice Cream/Softdrinks,American,Biryani,>600,Plant-based Meat,22.5726,88.3639
+U1042,25,Female,Homemaker,Postgraduate,No Income,Metro,P142,Biryani,Taste,Nothing special.,Neutral,0.47,3,Summer: Ice Cream/Softdrinks,American,Sandwich,100-200,Low Sugar Desserts,17.385,78.4867
+U1043,45,Female,Teacher,Intermediate,Above 60000,North,P143,Hot Soup,Quality,Good quality product.,Positive,0.65,5,Summer: Ice Cream/Softdrinks,American,Biryani,>600,Healthy Bowls,28.6139,77.209
+U1044,30,Male,Doctor,Postgraduate,Below 10000,Metro,P144,Burger,Price,Very bad quality.,Negative,0.18,2,Cold: Hot/Spicy,Street Food,Ice Cream,<100,Street Food Revival,17.385,78.4867
+U1045,22,Female,Student,Graduate,Below 10000,East,P145,Sandwich,Taste,Affordable and tasty.,Positive,0.65,4,Cold: Hot/Spicy,South Indian,Pizza,100-200,Protein Rich Meals,22.5726,88.3639
+U1046,28,Male,Analyst,Postgraduate,Below 10000,East,P146,Coffee,Taste,Could be better.,Neutral,0.49,3,Cold: Hot/Spicy,North Indian,Sandwich,200-400,Gluten-Free Products,22.5726,88.3639
+U1047,40,Male,Teacher,Graduate,No Income,West,P147,Burger,Quality,Taste was bland.,Negative,0.07,1,Cold: Hot/Spicy,Italian,Sandwich,400-600,Protein Rich Meals,19.076,72.8777
+U1048,34,Male,Lawyer,Doctorate,Above 60000,West,P148,Soft Drinks,Taste,Too expensive.,Negative,0.09,1,Cold: Hot/Spicy,North Indian,Burger,>600,Street Food Revival,19.076,72.8777
+U1049,30,Male,Teacher,Graduate,Below 10000,East,P149,Soft Drinks,Quality,Good quality product.,Positive,0.82,5,Cold: Hot/Spicy,North Indian,Biryani,100-200,Street Food Revival,22.5726,88.3639
+U1050,40,Female,Doctor,Intermediate,10000-20000,South,P150,Coffee,Price,Average experience.,Neutral,0.46,3,Summer: Ice Cream/Softdrinks,North Indian,Burger,>600,Low Sugar Desserts,12.9716,77.5946
+U1051,34,Male,Developer,Graduate,20000-40000,South,P151,Pizza,Quality,Very bad quality.,Negative,0.09,2,Cold: Hot/Spicy,North Indian,Coffee,400-600,Plant-based Meat,12.9716,77.5946
+U1052,25,Female,Doctor,Postgraduate,10000-20000,North,P152,Burger,Packaging,Too expensive.,Negative,0.37,1,Summer: Ice Cream/Softdrinks,South Indian,Salad,100-200,Plant-based Meat,28.6139,77.209
+U1053,25,Male,Teacher,Doctorate,40000-60000,South,P153,Soft Drinks,Price,Too expensive.,Negative,0.12,1,Cold: Hot/Spicy,American,Soft Drinks,<100,Healthy Bowls,12.9716,77.5946
+U1054,28,Female,Lawyer,Postgraduate,40000-60000,North,P154,Soft Drinks,Quality,Very bad quality.,Negative,0.09,2,Cold: Hot/Spicy,Italian,Biryani,200-400,Regional Recipes,28.6139,77.209
+U1055,28,Female,Engineer,Postgraduate,20000-40000,West,P155,Burger,Price,Average experience.,Neutral,0.44,3,Cold: Hot/Spicy,North Indian,Biryani,<100,Street Food Revival,19.076,72.8777
+U1056,45,Male,Engineer,Graduate,10000-20000,North,P156,Burger,Packaging,Good quality product.,Positive,0.93,4,Summer: Ice Cream/Softdrinks,American,Biryani,<100,Regional Recipes,28.6139,77.209
+U1057,18,Female,Developer,Postgraduate,Below 10000,West,P157,Hot Soup,Price,Loved the taste!,Positive,0.98,4,Cold: Hot/Spicy,North Indian,Burger,400-600,Protein Rich Meals,19.076,72.8777
+U1058,45,Male,Developer,Doctorate,No Income,West,P158,Spicy Noodles,Quality,Very bad quality.,Negative,0.34,2,Cold: Hot/Spicy,Italian,Sandwich,<100,Fusion Cuisine,19.076,72.8777
+U1059,45,Female,Doctor,Graduate,Below 10000,North,P159,Burger,Taste,Packaging was poor.,Negative,0,2,Cold: Hot/Spicy,North Indian,Salad,>600,Protein Rich Meals,28.6139,77.209
+U1060,22,Male,Lawyer,Doctorate,Above 60000,Metro,P160,Salad,Packaging,Very bad quality.,Negative,0.19,2,Cold: Hot/Spicy,South Indian,Ice Cream,400-600,Healthy Bowls,17.385,78.4867
+U1061,25,Male,Developer,Intermediate,10000-20000,East,P161,Spicy Noodles,Quality,Neutral opinion.,Neutral,0.54,3,Summer: Ice Cream/Softdrinks,South Indian,Hot Soup,100-200,Street Food Revival,22.5726,88.3639
+U1062,28,Female,Lawyer,Postgraduate,No Income,North,P162,Pizza,Availability,Nothing special.,Neutral,0.4,3,Cold: Hot/Spicy,South Indian,Soft Drinks,400-600,Plant-based Meat,28.6139,77.209
+U1063,18,Female,Developer,Doctorate,10000-20000,Metro,P163,Hot Soup,Taste,Nothing special.,Neutral,0.55,3,Cold: Hot/Spicy,Street Food,Salad,<100,Gluten-Free Products,17.385,78.4867
+U1064,45,Male,Homemaker,Intermediate,No Income,West,P164,Soft Drinks,Price,Very bad quality.,Negative,0.31,2,Cold: Hot/Spicy,Italian,Spicy Noodles,400-600,Regional Recipes,19.076,72.8777
+U1065,45,Male,Lawyer,Graduate,10000-20000,Metro,P165,Sandwich,Taste,Nothing special.,Neutral,0.43,3,Cold: Hot/Spicy,Street Food,Salad,400-600,Healthy Bowls,17.385,78.4867
+U1066,30,Female,Lawyer,Doctorate,Below 10000,North,P166,Hot Soup,Quality,Good quality product.,Positive,0.85,5,Cold: Hot/Spicy,South Indian,Burger,400-600,Street Food Revival,28.6139,77.209
+U1067,40,Female,Analyst,Postgraduate,40000-60000,East,P167,Spicy Noodles,Taste,Affordable and tasty.,Positive,0.78,5,Cold: Hot/Spicy,South Indian,Spicy Noodles,200-400,Organic Snacks,22.5726,88.3639
+U1068,22,Male,Engineer,Doctorate,20000-40000,South,P168,Salad,Packaging,Taste was bland.,Negative,0.14,2,Cold: Hot/Spicy,Chinese,Burger,<100,Vegan Food,12.9716,77.5946
+U1069,45,Male,Student,Doctorate,Below 10000,Metro,P169,Soft Drinks,Availability,Great packaging.,Positive,0.67,5,Cold: Hot/Spicy,Italian,Pizza,100-200,Plant-based Meat,17.385,78.4867
+U1070,30,Female,Homemaker,Doctorate,40000-60000,East,P170,Soft Drinks,Taste,Loved the taste!,Positive,0.91,4,Summer: Ice Cream/Softdrinks,Italian,Ice Cream,<100,Low Sugar Desserts,22.5726,88.3639
+U1071,22,Female,Doctor,Postgraduate,20000-40000,Metro,P171,Spicy Noodles,Packaging,Taste was bland.,Negative,0.21,2,Cold: Hot/Spicy,South Indian,Ice Cream,>600,Vegan Food,17.385,78.4867
+U1072,34,Female,Developer,Graduate,Above 60000,West,P172,Burger,Taste,Could be better.,Neutral,0.58,3,Cold: Hot/Spicy,Chinese,Coffee,400-600,Vegan Food,19.076,72.8777
+U1073,34,Male,Lawyer,Graduate,40000-60000,East,P173,Salad,Taste,Very bad quality.,Negative,0.14,2,Summer: Ice Cream/Softdrinks,South Indian,Biryani,100-200,Regional Recipes,22.5726,88.3639
+U1074,18,Male,Doctor,Doctorate,Above 60000,South,P174,Hot Soup,Price,Affordable and tasty.,Positive,0.98,4,Summer: Ice Cream/Softdrinks,Chinese,Spicy Noodles,>600,Low Sugar Desserts,12.9716,77.5946
+U1075,34,Female,Homemaker,Graduate,10000-20000,East,P175,Burger,Taste,Good quality product.,Positive,0.89,5,Cold: Hot/Spicy,North Indian,Biryani,400-600,Healthy Bowls,22.5726,88.3639
+U1076,45,Male,Developer,Graduate,40000-60000,North,P176,Spicy Noodles,Taste,Too expensive.,Negative,0.1,2,Summer: Ice Cream/Softdrinks,North Indian,Coffee,>600,Healthy Bowls,28.6139,77.209
+U1077,22,Female,Lawyer,Graduate,No Income,West,P177,Pizza,Taste,Average experience.,Neutral,0.59,3,Cold: Hot/Spicy,American,Sandwich,200-400,Gluten-Free Products,19.076,72.8777
+U1078,28,Male,Homemaker,Graduate,Above 60000,South,P178,Biryani,Availability,Neutral opinion.,Neutral,0.45,3,Cold: Hot/Spicy,North Indian,Coffee,100-200,Fusion Cuisine,12.9716,77.5946
+U1079,34,Female,Analyst,Postgraduate,Above 60000,South,P179,Biryani,Price,Nothing special.,Neutral,0.43,3,Summer: Ice Cream/Softdrinks,American,Sandwich,400-600,Regional Recipes,12.9716,77.5946
+U1080,30,Male,Analyst,Intermediate,Above 60000,South,P180,Spicy Noodles,Packaging,Great packaging.,Positive,0.72,4,Cold: Hot/Spicy,American,Hot Soup,400-600,Gluten-Free Products,12.9716,77.5946
+U1081,28,Male,Lawyer,Graduate,10000-20000,North,P181,Soft Drinks,Packaging,Nothing special.,Neutral,0.55,3,Summer: Ice Cream/Softdrinks,American,Ice Cream,<100,Regional Recipes,28.6139,77.209
+U1082,18,Male,Student,Postgraduate,Below 10000,Metro,P182,Ice Cream,Price,Packaging was poor.,Negative,0.24,2,Cold: Hot/Spicy,Street Food,Salad,<100,Vegan Food,17.385,78.4867
+U1083,45,Male,Student,Intermediate,40000-60000,South,P183,Soft Drinks,Packaging,Great packaging.,Positive,1,5,Summer: Ice Cream/Softdrinks,American,Spicy Noodles,100-200,Regional Recipes,12.9716,77.5946
+U1084,28,Female,Student,Graduate,40000-60000,North,P184,Biryani,Price,Not available in my region.,Negative,0.34,2,Cold: Hot/Spicy,American,Spicy Noodles,400-600,Protein Rich Meals,28.6139,77.209
+U1085,22,Male,Teacher,Graduate,40000-60000,Metro,P185,Soft Drinks,Price,Very bad quality.,Negative,0.1,2,Cold: Hot/Spicy,North Indian,Sandwich,100-200,Street Food Revival,17.385,78.4867
+U1086,40,Female,Analyst,Graduate,Above 60000,North,P186,Coffee,Packaging,Great packaging.,Positive,0.93,4,Summer: Ice Cream/Softdrinks,South Indian,Salad,100-200,Low Sugar Desserts,28.6139,77.209
+U1087,22,Male,Student,Postgraduate,Below 10000,East,P187,Salad,Price,Great packaging.,Positive,0.79,4,Cold: Hot/Spicy,American,Coffee,100-200,Plant-based Meat,22.5726,88.3639
+U1088,30,Male,Developer,Intermediate,Below 10000,Metro,P188,Soft Drinks,Quality,Packaging was poor.,Negative,0.32,1,Summer: Ice Cream/Softdrinks,Street Food,Hot Soup,<100,Plant-based Meat,17.385,78.4867
+U1089,28,Female,Homemaker,Graduate,40000-60000,North,P189,Hot Soup,Price,Loved the taste!,Positive,0.64,5,Summer: Ice Cream/Softdrinks,South Indian,Biryani,100-200,Plant-based Meat,28.6139,77.209
+U1090,45,Male,Developer,Doctorate,Above 60000,Metro,P190,Sandwich,Packaging,Taste was bland.,Negative,0.4,1,Cold: Hot/Spicy,American,Pizza,<100,Low Sugar Desserts,17.385,78.4867
+U1091,34,Female,Teacher,Doctorate,40000-60000,South,P191,Biryani,Availability,Great packaging.,Positive,0.78,5,Cold: Hot/Spicy,Street Food,Coffee,400-600,Healthy Bowls,12.9716,77.5946
+U1092,30,Male,Teacher,Doctorate,Above 60000,East,P192,Sandwich,Quality,Taste was bland.,Negative,0.38,1,Cold: Hot/Spicy,Italian,Burger,400-600,Healthy Bowls,22.5726,88.3639
+U1093,30,Female,Homemaker,Doctorate,10000-20000,East,P193,Sandwich,Packaging,Good quality product.,Positive,0.84,5,Cold: Hot/Spicy,American,Salad,200-400,Healthy Bowls,22.5726,88.3639
+U1094,40,Female,Engineer,Postgraduate,20000-40000,East,P194,Hot Soup,Availability,Too expensive.,Negative,0.19,2,Cold: Hot/Spicy,American,Sandwich,<100,Organic Snacks,22.5726,88.3639
+U1095,30,Female,Lawyer,Intermediate,No Income,Metro,P195,Hot Soup,Taste,Packaging was poor.,Negative,0.37,2,Summer: Ice Cream/Softdrinks,American,Sandwich,400-600,Gluten-Free Products,17.385,78.4867
+U1096,25,Female,Student,Intermediate,40000-60000,West,P196,Burger,Taste,Not available in my region.,Negative,0.33,2,Summer: Ice Cream/Softdrinks,American,Hot Soup,200-400,Plant-based Meat,19.076,72.8777
+U1097,34,Female,Student,Postgraduate,10000-20000,North,P197,Salad,Taste,Neutral opinion.,Neutral,0.4,3,Cold: Hot/Spicy,Street Food,Ice Cream,<100,Regional Recipes,28.6139,77.209
+U1098,18,Male,Engineer,Intermediate,40000-60000,East,P198,Hot Soup,Taste,Could be better.,Neutral,0.41,3,Cold: Hot/Spicy,Chinese,Burger,400-600,Vegan Food,22.5726,88.3639
+U1099,40,Male,Teacher,Postgraduate,10000-20000,East,P199,Soft Drinks,Availability,Very bad quality.,Negative,0.08,2,Cold: Hot/Spicy,North Indian,Biryani,>600,Organic Snacks,22.5726,88.3639
+U1100,25,Male,Developer,Graduate,Below 10000,West,P200,Hot Soup,Availability,Satisfied with my purchase.,Positive,0.99,4,Cold: Hot/Spicy,South Indian,Coffee,400-600,Protein Rich Meals,19.076,72.8777
+U1101,30,Male,Lawyer,Intermediate,No Income,Metro,P201,Salad,Availability,Okay product.,Neutral,0.51,3,Summer: Ice Cream/Softdrinks,North Indian,Burger,100-200,Regional Recipes,17.385,78.4867
+U1102,40,Male,Teacher,Doctorate,40000-60000,North,P202,Ice Cream,Packaging,Good quality product.,Positive,0.86,4,Cold: Hot/Spicy,Chinese,Ice Cream,200-400,Vegan Food,28.6139,77.209
+U1103,18,Female,Student,Graduate,Above 60000,South,P203,Coffee,Price,Satisfied with my purchase.,Positive,0.89,5,Cold: Hot/Spicy,American,Sandwich,100-200,Organic Snacks,12.9716,77.5946
+U1104,22,Male,Teacher,Doctorate,20000-40000,South,P204,Ice Cream,Taste,Okay product.,Neutral,0.56,3,Cold: Hot/Spicy,American,Pizza,100-200,Organic Snacks,12.9716,77.5946
+U1105,28,Male,Engineer,Postgraduate,20000-40000,East,P205,Salad,Quality,Great packaging.,Positive,0.99,5,Summer: Ice Cream/Softdrinks,North Indian,Spicy Noodles,100-200,Vegan Food,22.5726,88.3639
+U1106,28,Female,Engineer,Postgraduate,Below 10000,South,P206,Coffee,Packaging,Too expensive.,Negative,0.27,1,Cold: Hot/Spicy,North Indian,Burger,>600,Plant-based Meat,12.9716,77.5946
+U1107,25,Male,Analyst,Postgraduate,20000-40000,Metro,P207,Salad,Packaging,Okay product.,Neutral,0.49,3,Summer: Ice Cream/Softdrinks,South Indian,Ice Cream,<100,Fusion Cuisine,17.385,78.4867
+U1108,34,Male,Teacher,Intermediate,10000-20000,Metro,P208,Spicy Noodles,Price,Very bad quality.,Negative,0.03,1,Summer: Ice Cream/Softdrinks,American,Pizza,<100,Vegan Food,17.385,78.4867
+U1109,30,Female,Student,Graduate,Below 10000,Metro,P209,Sandwich,Packaging,Satisfied with my purchase.,Positive,0.63,5,Summer: Ice Cream/Softdrinks,South Indian,Pizza,>600,Protein Rich Meals,17.385,78.4867
+U1110,28,Male,Doctor,Intermediate,10000-20000,West,P210,Biryani,Taste,Too expensive.,Negative,0.09,1,Summer: Ice Cream/Softdrinks,South Indian,Coffee,200-400,Gluten-Free Products,19.076,72.8777
+U1111,40,Male,Teacher,Graduate,Above 60000,Metro,P211,Burger,Availability,Not available in my region.,Negative,0.31,1,Cold: Hot/Spicy,North Indian,Coffee,<100,Fusion Cuisine,17.385,78.4867
+U1112,40,Male,Teacher,Graduate,Below 10000,East,P212,Sandwich,Availability,Taste was bland.,Negative,0.34,1,Cold: Hot/Spicy,American,Salad,400-600,Plant-based Meat,22.5726,88.3639
+U1113,45,Male,Analyst,Doctorate,Below 10000,North,P213,Coffee,Price,Nothing special.,Neutral,0.56,3,Summer: Ice Cream/Softdrinks,North Indian,Biryani,<100,Vegan Food,28.6139,77.209
+U1114,18,Male,Developer,Intermediate,10000-20000,East,P214,Sandwich,Quality,Affordable and tasty.,Positive,0.66,5,Cold: Hot/Spicy,American,Burger,200-400,Vegan Food,22.5726,88.3639
+U1115,40,Male,Homemaker,Intermediate,40000-60000,Metro,P215,Burger,Taste,Neutral opinion.,Neutral,0.42,3,Summer: Ice Cream/Softdrinks,Street Food,Salad,100-200,Plant-based Meat,17.385,78.4867
+U1116,30,Male,Developer,Doctorate,Below 10000,South,P216,Salad,Taste,Loved the taste!,Positive,0.65,5,Cold: Hot/Spicy,American,Burger,>600,Vegan Food,12.9716,77.5946
+U1117,18,Male,Analyst,Graduate,20000-40000,North,P217,Pizza,Taste,Packaging was poor.,Negative,0.21,1,Summer: Ice Cream/Softdrinks,Street Food,Spicy Noodles,<100,Plant-based Meat,28.6139,77.209
+U1118,25,Male,Developer,Intermediate,Below 10000,North,P218,Soft Drinks,Quality,Taste was bland.,Negative,0.06,2,Cold: Hot/Spicy,Chinese,Coffee,400-600,Healthy Bowls,28.6139,77.209
+U1119,45,Female,Lawyer,Postgraduate,20000-40000,West,P219,Biryani,Packaging,Packaging was poor.,Negative,0.34,2,Cold: Hot/Spicy,South Indian,Pizza,>600,Plant-based Meat,19.076,72.8777
+U1120,34,Female,Doctor,Graduate,10000-20000,South,P220,Salad,Quality,Nothing special.,Neutral,0.57,3,Summer: Ice Cream/Softdrinks,Italian,Spicy Noodles,200-400,Plant-based Meat,12.9716,77.5946
+U1121,25,Male,Analyst,Graduate,Above 60000,South,P221,Sandwich,Packaging,Very bad quality.,Negative,0.17,2,Summer: Ice Cream/Softdrinks,Street Food,Coffee,200-400,Street Food Revival,12.9716,77.5946
+U1122,18,Female,Analyst,Doctorate,No Income,Metro,P222,Pizza,Availability,Loved the taste!,Positive,0.71,4,Summer: Ice Cream/Softdrinks,Italian,Pizza,<100,Vegan Food,17.385,78.4867
+U1123,45,Female,Engineer,Postgraduate,40000-60000,East,P223,Coffee,Availability,Affordable and tasty.,Positive,0.84,5,Cold: Hot/Spicy,North Indian,Burger,>600,Street Food Revival,22.5726,88.3639
+U1124,25,Female,Lawyer,Graduate,No Income,North,P224,Sandwich,Packaging,Neutral opinion.,Neutral,0.58,3,Cold: Hot/Spicy,North Indian,Burger,400-600,Gluten-Free Products,28.6139,77.209
+U1125,18,Male,Doctor,Graduate,Below 10000,East,P225,Ice Cream,Price,Satisfied with my purchase.,Positive,0.88,5,Cold: Hot/Spicy,Street Food,Pizza,200-400,Organic Snacks,22.5726,88.3639
+U1126,34,Male,Teacher,Postgraduate,10000-20000,East,P226,Spicy Noodles,Price,Neutral opinion.,Neutral,0.59,3,Cold: Hot/Spicy,North Indian,Sandwich,>600,Street Food Revival,22.5726,88.3639
+U1127,34,Female,Student,Graduate,Above 60000,South,P227,Coffee,Packaging,Could be better.,Neutral,0.5,3,Cold: Hot/Spicy,Italian,Biryani,200-400,Healthy Bowls,12.9716,77.5946
+U1128,45,Male,Teacher,Intermediate,Below 10000,North,P228,Pizza,Packaging,Satisfied with my purchase.,Positive,0.92,4,Summer: Ice Cream/Softdrinks,American,Sandwich,<100,Plant-based Meat,28.6139,77.209
+U1129,22,Female,Student,Graduate,20000-40000,North,P229,Burger,Availability,Neutral opinion.,Neutral,0.59,3,Summer: Ice Cream/Softdrinks,Street Food,Coffee,400-600,Plant-based Meat,28.6139,77.209
+U1130,18,Male,Teacher,Postgraduate,Above 60000,North,P230,Hot Soup,Availability,Good quality product.,Positive,0.83,4,Summer: Ice Cream/Softdrinks,Street Food,Ice Cream,200-400,Regional Recipes,28.6139,77.209
+U1131,22,Male,Engineer,Graduate,20000-40000,North,P231,Spicy Noodles,Availability,Neutral opinion.,Neutral,0.46,3,Summer: Ice Cream/Softdrinks,North Indian,Spicy Noodles,200-400,Protein Rich Meals,28.6139,77.209
+U1132,30,Male,Developer,Doctorate,20000-40000,Metro,P232,Pizza,Quality,Could be better.,Neutral,0.55,3,Summer: Ice Cream/Softdrinks,Italian,Spicy Noodles,400-600,Street Food Revival,17.385,78.4867
+U1133,22,Female,Lawyer,Doctorate,Below 10000,North,P233,Coffee,Price,Nothing special.,Neutral,0.51,3,Summer: Ice Cream/Softdrinks,Chinese,Salad,>600,Regional Recipes,28.6139,77.209
+U1134,40,Female,Homemaker,Intermediate,10000-20000,North,P234,Pizza,Quality,Not available in my region.,Negative,0.29,2,Summer: Ice Cream/Softdrinks,North Indian,Burger,100-200,Low Sugar Desserts,28.6139,77.209
+U1135,28,Male,Homemaker,Intermediate,10000-20000,Metro,P235,Burger,Availability,Not available in my region.,Negative,0.34,1,Summer: Ice Cream/Softdrinks,Chinese,Pizza,400-600,Vegan Food,17.385,78.4867
+U1136,40,Female,Homemaker,Intermediate,40000-60000,North,P236,Pizza,Quality,Average experience.,Neutral,0.54,3,Summer: Ice Cream/Softdrinks,Street Food,Hot Soup,<100,Street Food Revival,28.6139,77.209
+U1137,30,Female,Teacher,Postgraduate,10000-20000,West,P237,Salad,Availability,Great packaging.,Positive,0.69,5,Cold: Hot/Spicy,Street Food,Spicy Noodles,400-600,Gluten-Free Products,19.076,72.8777
+U1138,28,Male,Engineer,Intermediate,20000-40000,East,P238,Burger,Quality,Good quality product.,Positive,0.79,4,Summer: Ice Cream/Softdrinks,Street Food,Biryani,100-200,Low Sugar Desserts,22.5726,88.3639
+U1139,45,Male,Lawyer,Doctorate,40000-60000,East,P239,Sandwich,Availability,Good quality product.,Positive,0.9,4,Summer: Ice Cream/Softdrinks,Street Food,Ice Cream,200-400,Plant-based Meat,22.5726,88.3639
+U1140,25,Male,Homemaker,Postgraduate,40000-60000,South,P240,Coffee,Availability,Too expensive.,Negative,0.36,2,Summer: Ice Cream/Softdrinks,Street Food,Spicy Noodles,200-400,Street Food Revival,12.9716,77.5946
+U1141,25,Male,Developer,Postgraduate,Above 60000,South,P241,Coffee,Taste,Affordable and tasty.,Positive,0.96,5,Cold: Hot/Spicy,Street Food,Hot Soup,<100,Protein Rich Meals,12.9716,77.5946
+U1142,30,Male,Analyst,Intermediate,20000-40000,East,P242,Pizza,Quality,Could be better.,Neutral,0.43,3,Summer: Ice Cream/Softdrinks,Italian,Biryani,400-600,Low Sugar Desserts,22.5726,88.3639
+U1143,34,Female,Developer,Graduate,Below 10000,West,P243,Ice Cream,Packaging,Okay product.,Neutral,0.53,3,Cold: Hot/Spicy,North Indian,Spicy Noodles,200-400,Protein Rich Meals,19.076,72.8777
+U1144,30,Female,Doctor,Intermediate,Above 60000,North,P244,Sandwich,Price,Not available in my region.,Negative,0.16,2,Summer: Ice Cream/Softdrinks,Italian,Ice Cream,400-600,Healthy Bowls,28.6139,77.209
+U1145,30,Male,Developer,Doctorate,Below 10000,Metro,P245,Ice Cream,Quality,Affordable and tasty.,Positive,0.71,5,Cold: Hot/Spicy,Chinese,Hot Soup,<100,Organic Snacks,17.385,78.4867
+U1146,25,Female,Homemaker,Doctorate,Above 60000,West,P246,Hot Soup,Taste,Satisfied with my purchase.,Positive,0.64,4,Summer: Ice Cream/Softdrinks,North Indian,Soft Drinks,200-400,Vegan Food,19.076,72.8777
+U1147,28,Female,Developer,Doctorate,No Income,North,P247,Ice Cream,Availability,Affordable and tasty.,Positive,0.93,5,Summer: Ice Cream/Softdrinks,Italian,Biryani,200-400,Vegan Food,28.6139,77.209
+U1148,34,Female,Engineer,Postgraduate,40000-60000,Metro,P248,Biryani,Packaging,Nothing special.,Neutral,0.52,3,Summer: Ice Cream/Softdrinks,American,Pizza,<100,Vegan Food,17.385,78.4867
+U1149,34,Female,Doctor,Postgraduate,10000-20000,West,P249,Biryani,Packaging,Could be better.,Neutral,0.5,3,Cold: Hot/Spicy,Street Food,Pizza,400-600,Regional Recipes,19.076,72.8777
+U1150,30,Female,Analyst,Doctorate,Above 60000,South,P250,Spicy Noodles,Quality,Affordable and tasty.,Positive,0.71,5,Summer: Ice Cream/Softdrinks,Italian,Salad,100-200,Plant-based Meat,12.9716,77.5946
+U1151,30,Female,Engineer,Graduate,Above 60000,Metro,P251,Salad,Quality,Affordable and tasty.,Positive,0.94,4,Summer: Ice Cream/Softdrinks,Italian,Salad,<100,Street Food Revival,17.385,78.4867
+U1152,40,Female,Teacher,Doctorate,40000-60000,East,P252,Salad,Price,Taste was bland.,Negative,0.01,2,Summer: Ice Cream/Softdrinks,North Indian,Hot Soup,100-200,Protein Rich Meals,22.5726,88.3639
+U1153,34,Female,Student,Postgraduate,Above 60000,East,P253,Spicy Noodles,Price,Average experience.,Neutral,0.46,3,Cold: Hot/Spicy,American,Salad,200-400,Organic Snacks,22.5726,88.3639
+U1154,30,Male,Lawyer,Graduate,No Income,South,P254,Biryani,Availability,Very bad quality.,Negative,0.37,2,Cold: Hot/Spicy,North Indian,Sandwich,200-400,Vegan Food,12.9716,77.5946
+U1155,18,Female,Developer,Doctorate,20000-40000,Metro,P255,Coffee,Packaging,Satisfied with my purchase.,Positive,0.66,5,Cold: Hot/Spicy,Italian,Sandwich,400-600,Organic Snacks,17.385,78.4867
+U1156,40,Female,Engineer,Graduate,Above 60000,East,P256,Salad,Availability,Good quality product.,Positive,0.92,4,Cold: Hot/Spicy,Chinese,Biryani,>600,Gluten-Free Products,22.5726,88.3639
+U1157,34,Male,Student,Postgraduate,No Income,South,P257,Spicy Noodles,Taste,Packaging was poor.,Negative,0.31,1,Summer: Ice Cream/Softdrinks,North Indian,Spicy Noodles,400-600,Healthy Bowls,12.9716,77.5946
+U1158,18,Female,Teacher,Postgraduate,10000-20000,East,P258,Salad,Availability,Loved the taste!,Positive,0.8,4,Cold: Hot/Spicy,North Indian,Pizza,>600,Healthy Bowls,22.5726,88.3639
+U1159,25,Female,Student,Intermediate,Above 60000,South,P259,Spicy Noodles,Price,Okay product.,Neutral,0.43,3,Cold: Hot/Spicy,Street Food,Pizza,>600,Organic Snacks,12.9716,77.5946
+U1160,45,Female,Homemaker,Intermediate,Above 60000,Metro,P260,Pizza,Availability,Satisfied with my purchase.,Positive,0.78,4,Summer: Ice Cream/Softdrinks,Italian,Sandwich,<100,Plant-based Meat,17.385,78.4867
+U1161,30,Female,Student,Graduate,Above 60000,South,P261,Coffee,Quality,Very bad quality.,Negative,0.3,2,Summer: Ice Cream/Softdrinks,American,Sandwich,>600,Gluten-Free Products,12.9716,77.5946
+U1162,34,Male,Teacher,Intermediate,Above 60000,Metro,P262,Sandwich,Price,Loved the taste!,Positive,0.62,4,Summer: Ice Cream/Softdrinks,South Indian,Burger,>600,Plant-based Meat,17.385,78.4867
+U1163,40,Female,Analyst,Graduate,Below 10000,Metro,P263,Burger,Quality,Not available in my region.,Negative,0.33,1,Cold: Hot/Spicy,Italian,Sandwich,>600,Street Food Revival,17.385,78.4867
+U1164,40,Female,Developer,Graduate,40000-60000,West,P264,Sandwich,Taste,Good quality product.,Positive,0.74,5,Summer: Ice Cream/Softdrinks,South Indian,Burger,<100,Street Food Revival,19.076,72.8777
+U1165,25,Male,Homemaker,Doctorate,10000-20000,North,P265,Hot Soup,Packaging,Okay product.,Neutral,0.44,3,Cold: Hot/Spicy,American,Pizza,100-200,Street Food Revival,28.6139,77.209
+U1166,28,Female,Developer,Intermediate,No Income,West,P266,Coffee,Price,Taste was bland.,Negative,0.17,1,Summer: Ice Cream/Softdrinks,North Indian,Biryani,>600,Organic Snacks,19.076,72.8777
+U1167,45,Male,Engineer,Doctorate,20000-40000,East,P267,Burger,Packaging,Good quality product.,Positive,0.98,5,Cold: Hot/Spicy,South Indian,Burger,200-400,Low Sugar Desserts,22.5726,88.3639
+U1168,40,Male,Lawyer,Postgraduate,No Income,South,P268,Pizza,Quality,Loved the taste!,Positive,0.84,5,Cold: Hot/Spicy,Street Food,Sandwich,>600,Gluten-Free Products,12.9716,77.5946
+U1169,34,Male,Teacher,Doctorate,Below 10000,East,P269,Hot Soup,Price,Great packaging.,Positive,0.85,4,Cold: Hot/Spicy,Chinese,Coffee,>600,Healthy Bowls,22.5726,88.3639
+U1170,22,Male,Student,Postgraduate,20000-40000,West,P270,Biryani,Packaging,Satisfied with my purchase.,Positive,0.67,4,Summer: Ice Cream/Softdrinks,Street Food,Spicy Noodles,100-200,Vegan Food,19.076,72.8777
+U1171,25,Male,Teacher,Postgraduate,20000-40000,Metro,P271,Biryani,Packaging,Loved the taste!,Positive,0.62,4,Summer: Ice Cream/Softdrinks,Italian,Hot Soup,>600,Low Sugar Desserts,17.385,78.4867
+U1172,25,Female,Analyst,Postgraduate,Below 10000,North,P272,Coffee,Taste,Neutral opinion.,Neutral,0.5,3,Summer: Ice Cream/Softdrinks,North Indian,Hot Soup,200-400,Low Sugar Desserts,28.6139,77.209
+U1173,45,Female,Doctor,Postgraduate,20000-40000,North,P273,Ice Cream,Price,Nothing special.,Neutral,0.48,3,Cold: Hot/Spicy,Italian,Soft Drinks,200-400,Vegan Food,28.6139,77.209
+U1174,22,Female,Analyst,Graduate,No Income,North,P274,Spicy Noodles,Quality,Taste was bland.,Negative,0.22,2,Cold: Hot/Spicy,Street Food,Coffee,>600,Plant-based Meat,28.6139,77.209
+U1175,25,Male,Doctor,Postgraduate,Below 10000,North,P275,Spicy Noodles,Price,Not available in my region.,Negative,0.3,2,Cold: Hot/Spicy,North Indian,Sandwich,>600,Fusion Cuisine,28.6139,77.209
+U1176,40,Male,Homemaker,Intermediate,10000-20000,Metro,P276,Pizza,Availability,Satisfied with my purchase.,Positive,0.85,5,Cold: Hot/Spicy,North Indian,Ice Cream,100-200,Regional Recipes,17.385,78.4867
+U1177,45,Male,Student,Intermediate,Below 10000,West,P277,Salad,Packaging,Average experience.,Neutral,0.43,3,Cold: Hot/Spicy,Street Food,Burger,100-200,Vegan Food,19.076,72.8777
+U1178,22,Male,Lawyer,Intermediate,No Income,East,P278,Biryani,Price,Affordable and tasty.,Positive,0.63,5,Cold: Hot/Spicy,Chinese,Burger,<100,Gluten-Free Products,22.5726,88.3639
+U1179,30,Male,Teacher,Graduate,No Income,North,P279,Soft Drinks,Quality,Good quality product.,Positive,0.83,4,Summer: Ice Cream/Softdrinks,Italian,Biryani,100-200,Fusion Cuisine,28.6139,77.209
+U1180,45,Male,Teacher,Graduate,40000-60000,West,P280,Sandwich,Packaging,Taste was bland.,Negative,0.12,1,Cold: Hot/Spicy,Italian,Coffee,<100,Street Food Revival,19.076,72.8777
+U1181,28,Female,Analyst,Graduate,10000-20000,Metro,P281,Spicy Noodles,Availability,Could be better.,Neutral,0.45,3,Summer: Ice Cream/Softdrinks,Chinese,Hot Soup,<100,Healthy Bowls,17.385,78.4867
+U1182,34,Female,Student,Postgraduate,No Income,West,P282,Pizza,Taste,Great packaging.,Positive,0.88,4,Summer: Ice Cream/Softdrinks,South Indian,Coffee,100-200,Fusion Cuisine,19.076,72.8777
+U1183,28,Male,Student,Postgraduate,40000-60000,North,P283,Spicy Noodles,Price,Neutral opinion.,Neutral,0.44,3,Cold: Hot/Spicy,Street Food,Burger,100-200,Fusion Cuisine,28.6139,77.209
+U1184,34,Male,Doctor,Graduate,20000-40000,West,P284,Coffee,Packaging,Loved the taste!,Positive,0.84,4,Cold: Hot/Spicy,South Indian,Soft Drinks,>600,Vegan Food,19.076,72.8777
+U1185,18,Male,Homemaker,Intermediate,10000-20000,Metro,P285,Ice Cream,Availability,Packaging was poor.,Negative,0.21,1,Summer: Ice Cream/Softdrinks,North Indian,Coffee,200-400,Protein Rich Meals,17.385,78.4867
+U1186,30,Male,Teacher,Postgraduate,Below 10000,South,P286,Spicy Noodles,Taste,Average experience.,Neutral,0.6,3,Cold: Hot/Spicy,American,Soft Drinks,100-200,Vegan Food,12.9716,77.5946
+U1187,34,Female,Doctor,Postgraduate,Above 60000,Metro,P287,Burger,Packaging,Packaging was poor.,Negative,0,1,Cold: Hot/Spicy,Chinese,Salad,<100,Protein Rich Meals,17.385,78.4867
+U1188,34,Male,Engineer,Intermediate,10000-20000,West,P288,Hot Soup,Price,Very bad quality.,Negative,0.34,2,Summer: Ice Cream/Softdrinks,Street Food,Ice Cream,100-200,Vegan Food,19.076,72.8777
+U1189,25,Female,Engineer,Postgraduate,40000-60000,South,P289,Coffee,Packaging,Neutral opinion.,Neutral,0.43,3,Cold: Hot/Spicy,Chinese,Biryani,>600,Healthy Bowls,12.9716,77.5946
+U1190,34,Male,Lawyer,Postgraduate,Above 60000,West,P290,Spicy Noodles,Price,Taste was bland.,Negative,0.1,2,Cold: Hot/Spicy,North Indian,Ice Cream,200-400,Fusion Cuisine,19.076,72.8777
+U1191,18,Female,Homemaker,Intermediate,10000-20000,West,P291,Pizza,Packaging,Loved the taste!,Positive,0.75,5,Cold: Hot/Spicy,Chinese,Burger,>600,Fusion Cuisine,19.076,72.8777
+U1192,45,Female,Teacher,Graduate,Above 60000,Metro,P292,Soft Drinks,Availability,Satisfied with my purchase.,Positive,0.75,4,Summer: Ice Cream/Softdrinks,North Indian,Spicy Noodles,<100,Protein Rich Meals,17.385,78.4867
+U1193,22,Female,Teacher,Intermediate,10000-20000,East,P293,Salad,Packaging,Nothing special.,Neutral,0.4,3,Summer: Ice Cream/Softdrinks,South Indian,Spicy Noodles,>600,Protein Rich Meals,22.5726,88.3639
+U1194,40,Male,Lawyer,Graduate,10000-20000,South,P294,Soft Drinks,Packaging,Average experience.,Neutral,0.49,3,Cold: Hot/Spicy,American,Spicy Noodles,200-400,Healthy Bowls,12.9716,77.5946
+U1195,45,Male,Engineer,Postgraduate,Above 60000,East,P295,Biryani,Quality,Okay product.,Neutral,0.56,3,Cold: Hot/Spicy,Italian,Sandwich,>600,Regional Recipes,22.5726,88.3639
+U1196,22,Female,Analyst,Postgraduate,10000-20000,North,P296,Soft Drinks,Packaging,Nothing special.,Neutral,0.57,3,Summer: Ice Cream/Softdrinks,Italian,Soft Drinks,400-600,Organic Snacks,28.6139,77.209
+U1197,25,Male,Engineer,Graduate,No Income,North,P297,Soft Drinks,Quality,Okay product.,Neutral,0.47,3,Summer: Ice Cream/Softdrinks,Chinese,Soft Drinks,200-400,Protein Rich Meals,28.6139,77.209
+U1198,34,Male,Lawyer,Graduate,Above 60000,South,P298,Coffee,Packaging,Average experience.,Neutral,0.47,3,Cold: Hot/Spicy,Chinese,Pizza,200-400,Plant-based Meat,12.9716,77.5946
+U1199,18,Female,Engineer,Intermediate,40000-60000,East,P299,Hot Soup,Availability,Very bad quality.,Negative,0.27,1,Cold: Hot/Spicy,Street Food,Coffee,>600,Low Sugar Desserts,22.5726,88.3639
